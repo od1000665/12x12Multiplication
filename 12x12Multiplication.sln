@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12x12Multiplication", "12x12Multiplication.csproj", "{667D17C0-BEFA-EE1C-C812-F4B878411FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667D17C0-BEFA-EE1C-C812-F4B878411FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667D17C0-BEFA-EE1C-C812-F4B878411FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667D17C0-BEFA-EE1C-C812-F4B878411FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667D17C0-BEFA-EE1C-C812-F4B878411FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E045B5A-721A-4CEE-AAA3-9A99D5A51257}
+	EndGlobalSection
+EndGlobal
