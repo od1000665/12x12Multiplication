@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("12x12Multiplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a2c963c2d6cb79ff52dd0fe8a90423329985d3c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcbdda158e005ff953211e4ad0925c5ba21b68c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("12x12Multiplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("12x12Multiplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
