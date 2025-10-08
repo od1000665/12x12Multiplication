@@ -10,7 +10,7 @@ for (int a = 1; a <= 12; a++)
     for (int b = 1; b <=12; b++)
     {
 
-        Console.Write($"| {a * b,2} ");
+        Console.Write($"| {a * b} ");
     }
     //Print | at the end of each row
     Console.WriteLine("|");
